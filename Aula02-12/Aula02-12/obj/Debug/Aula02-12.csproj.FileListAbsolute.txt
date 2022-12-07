@@ -1,0 +1,11 @@
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\bin\Debug\Aula02-12.exe.config
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\bin\Debug\Aula02-12.exe
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\bin\Debug\Aula02-12.pdb
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02-12.csproj.AssemblyReference.cache
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02_12.Form1.resources
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02_12.Properties.Resources.resources
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02-12.csproj.GenerateResource.cache
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02-12.csproj.CoreCompileInputs.cache
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02-12.exe
+C:\Users\kemylin.kafreitas\source\repos\Aula02-12\Aula02-12\obj\Debug\Aula02-12.pdb
